@@ -9,7 +9,7 @@ container {
     font-family: Arial, sans-serif;
   }
   
-  .calculator input {
+  .input {
     width: 90%;
     padding: 10px;
     font-size: 18px;

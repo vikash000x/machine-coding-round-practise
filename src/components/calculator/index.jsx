@@ -49,6 +49,7 @@ const calcResult = ()=>{
         value = {input}
         placeholder = "Enter your operation"
         readOnly
+        className =  "input"
         />
         <div classNamr="result">result is : {result} </div>
 
